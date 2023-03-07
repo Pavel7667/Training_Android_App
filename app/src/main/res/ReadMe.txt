@@ -1,0 +1,1 @@
+Training Android project (in Kotlin) on how to use the API with Retrofit with Jetpack Compose.
